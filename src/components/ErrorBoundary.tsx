@@ -1,5 +1,5 @@
 import React from 'react';
-import Bugsnag from '@bugsnag/browser';
+import Bugsnag from '@bugsnag/js';
 import BugsnagPluginReact, {
   BugsnagPluginReactResult,
 } from '@bugsnag/plugin-react';

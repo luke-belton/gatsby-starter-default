@@ -4,7 +4,7 @@ import { PageProps, Link, graphql, HeadFC } from "gatsby"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-import Bugsnag from "@bugsnag/browser"
+import Bugsnag from "@bugsnag/js"
 
 type DataProps = {
   site: {
